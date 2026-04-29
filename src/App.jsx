@@ -1,7 +1,10 @@
 import './App.css'
+import sidebar from './Components/sidebar/sidebar.jsx'
 
 function App() {
-<h1>Hadi Hashemi</h1> 
+return(
+  <h1>Hadi Hashemi</h1> 
+)
 
 }
 
